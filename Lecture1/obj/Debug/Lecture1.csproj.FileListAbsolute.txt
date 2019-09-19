@@ -1,0 +1,7 @@
+C:\Users\Developer\Documents\GitHub\dot-Net\Lecture1\bin\Debug\Lecture1.exe.config
+C:\Users\Developer\Documents\GitHub\dot-Net\Lecture1\bin\Debug\Lecture1.exe
+C:\Users\Developer\Documents\GitHub\dot-Net\Lecture1\bin\Debug\Lecture1.pdb
+C:\Users\Developer\Documents\GitHub\dot-Net\Lecture1\obj\Debug\Lecture1.csprojAssemblyReference.cache
+C:\Users\Developer\Documents\GitHub\dot-Net\Lecture1\obj\Debug\Lecture1.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\GitHub\dot-Net\Lecture1\obj\Debug\Lecture1.exe
+C:\Users\Developer\Documents\GitHub\dot-Net\Lecture1\obj\Debug\Lecture1.pdb
